@@ -159,4 +159,4 @@ Version control features:
 
 ## License
 
-[License details to be added]
+GNU GENERAL PUBLIC LICENSE
